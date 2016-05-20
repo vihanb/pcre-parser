@@ -1,0 +1,23 @@
+{
+  "name": "pcre-parser",
+  "version": "1.0.0",
+  "description": "A library taking a pcre-flavor regex file, parses an input, and returns the output",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vihanb/pcre-parser.git"
+  },
+  "author": "Vihan B <vihan@vihan.org> (vihan.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vihanb/pcre-parser/issues"
+  },
+  "homepage": "https://github.com/vihanb/pcre-parser#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
